@@ -1,5 +1,8 @@
 # QR-code-generator
 ![Screenshot 2023-12-31 195438](https://github.com/shuklatushar12219829/QR-code-generator/assets/115138208/644101c3-12af-4fab-a0ff-712c955eb2a5)
+
+Links - https://symphonious-gaufre-68f37d.netlify.app
+
 Description:
 HTML (index.html):
 
